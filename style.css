@@ -218,4 +218,25 @@ footer {
   background-color: #d62828;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Footer default style */
+footer {
+  background-color: var(--card);
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
