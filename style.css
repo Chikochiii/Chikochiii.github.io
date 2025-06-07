@@ -163,6 +163,16 @@ footer {
   border-radius: 10px;
 }
 
+.project a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.project a:hover {
+  color: var(--accent);     /* Efek hover: tampilkan warna aksen */
+  text-decoration: underline;
+}
+
 /* Contact */
 .contact {
   max-width: 600px;

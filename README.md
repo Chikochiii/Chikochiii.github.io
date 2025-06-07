@@ -1,5 +1,6 @@
 # Chikochiii.github.io
 Simple Portofolio
+https://chikochiii.github.io
 
 # Personal Portofolio
 https://roadmap.sh/projects/portfolio-website
